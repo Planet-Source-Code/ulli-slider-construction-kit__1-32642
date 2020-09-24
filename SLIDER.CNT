@@ -1,0 +1,28 @@
+:Base SLIDER.hlp
+:Title Slider OCX
+1 Slider OCX
+1 SliderOCX
+2 SliderOCX=csLibSliderOCX
+2 Slider Control
+3 Slider Control=csCtlSlider
+3 Slider Properties
+4 Alignment=csPAlignmentSlider
+4 BackColor=csPBackColorSlider
+4 Borderstyle=csPBorderstyleSlider
+4 Caption=csPCaptionSlider
+4 Font=csPFontSlider
+4 ForeColor=csPForeColorSlider
+4 Max=csPMaxSlider
+4 Min=csPMinSlider
+4 Notches=csPNotchesSlider
+4 PictureBody=csPPictureBodySlider
+4 PictureLeft=csPPictureLeftSlider
+4 PictureRight=csPPictureRightSlider
+4 PictureThumb=csPPictureThumbSlider
+4 Value=csPValueSlider
+3 Slider Events
+4 Change=csEChangeSlider
+4 Scroll=csEScrollSlider
+1  Constants
+2 Align Constants=csSetAlign
+2 Borderstyle Constants=csSetBorderstyle
